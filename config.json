@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "ODgyNTg4Mjg4OTE2MDA0OTI2.YS9kZQ.ToBhP9ledskZhaJc_wKlOYqc9TE",
+    "SERVER_URL": "116.202.113.194:30140",
+    "SERVER_LOGO": "https://cdn.discordapp.com/avatars/398440911677292555/c6e0274834bdc7a8c1def1b74d2c97af.png?size=256",
+    "SERVER_NAME": "🌴EXOTIK RP 🌴",
+    "PREFIX": "!",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"880795284823760927",
+        "MEMES":"id de salon",
+        "ANIMALS":"id de salon"
+    }
+    
+}
